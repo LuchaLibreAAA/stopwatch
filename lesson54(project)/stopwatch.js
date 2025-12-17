@@ -84,3 +84,5 @@ document.getElementById("reset").onclick=function(){
 
        reset();
 }
+// for closures not optimised
+// will work upon closures later 
