@@ -86,5 +86,5 @@ document.getElementById("reset").onclick=function(){
        reset();
 }
 }
-function();// check closures later 
+function stopwatch();// check closures later 
 // will work upon closures later 
