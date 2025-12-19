@@ -1,3 +1,4 @@
+function stopwatch(){
 let ms=0,s=0,min=0,hr=0;
 let startcounter=true;
 let buttoncounter=true;
@@ -84,5 +85,6 @@ document.getElementById("reset").onclick=function(){
 
        reset();
 }
-// for closures not optimised
+}
+function();// check closures later 
 // will work upon closures later 
